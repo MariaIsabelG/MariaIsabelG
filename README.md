@@ -1,4 +1,4 @@
-![pixel-speech-bubble (1)](https://user-images.githubusercontent.com/101946548/185705394-689b14cc-ce4b-44ac-b835-cc4e1a3e3b1c.gif)
+
 
 
 - 👋 Hi, I’m @MariaIsabelG
