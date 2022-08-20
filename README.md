@@ -3,7 +3,7 @@
 <h1 align="center">¡Hola! Welcome to my GitHub page! 🦋</h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/13aamGMSgU9TXy/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/13aamGMSgU9TXy/giphy.gif" width="200"/>
 </div>
 
 ---
