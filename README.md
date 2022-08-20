@@ -16,7 +16,7 @@
 <h2>Connect + Resume:</h2>
 
 <div>
-  <a href="www.linkedin.com/in/mariaisabelg">
+  <a href="https://www.linkedin.com/in/mariaisabelg/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
