@@ -2,10 +2,6 @@
 
 <h1 align="center">¡Hola! Welcome to my GitHub page! 🦋</h1>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/13aamGMSgU9TXy/giphy.gif" width="200"/>
-</div>
-
 ---
 
 <h2>About me:</h2>
@@ -15,11 +11,13 @@
   <li>🌱 I’m currently learning C# and .NET</li>
   <li>👀 Interesting fact: I have lived in four different countries 🇨🇴🇰🇷🇺🇸🇪🇸
   <li>🎤 When I'm not coding I am singing !</li>
-  <li>🤝 Connect: 
-  <a href="www.linkedin.com/in/mariaisabelg">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
 
 <h2>Connect:</h2>
+<div>
+  <a href="www.linkedin.com/in/mariaisabelg">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ </a>
+</div>
 
 
