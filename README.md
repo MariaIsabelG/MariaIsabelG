@@ -42,9 +42,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
 </div>
 
-<h2>✨ My Stats:</h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaIsabelG&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
